@@ -2,8 +2,8 @@
 
 a landing page for bank app (in progress...)
 
-# HTML5
+- HTML5
 
-# CSS3
+- CSS3
 
-# Javascript
+- Javascript
